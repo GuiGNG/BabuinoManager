@@ -1,2 +1,8 @@
 Para cada módulo/funcionalidade do sistema, deverá ter uma pasta com alguns arquivos .php.
 Esses arquivos serão responsáveis pelo CRUD de todas as funcionalidades daquele módulo.
+
+
+Na pasta php ficam as classes e includes que irão fazer a bagaça funcionar.
+
+Na pasta front, ficam os arquivos css, js e imagens que irão fazer toda estilização.
+
