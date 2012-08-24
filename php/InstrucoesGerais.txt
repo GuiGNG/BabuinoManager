@@ -1,0 +1,2 @@
+Para cada módulo/funcionalidade do sistema, deverá ter uma pasta com alguns arquivos .php.
+Esses arquivos serão responsáveis pelo CRUD de todas as funcionalidades daquele módulo.
